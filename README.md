@@ -2,6 +2,8 @@
 
 This repository contains the demos and scripts used in the PowerShell Scripting and Toolmaking presentation given to the [Twin Cities Systems Management User Group](https://tcsmug.org/) on [15 April 2024](https://events.eventzilla.net/e/tcsmug-april-15th-meeting-2138605088). The session was not recorded.
 
+![presentation](images/present-1.jpg)
+
 ## Demos
 
 Open the `demo.ps1` script file in VSCode to follow along. All code should work in Windows PowerShell and PowerShell 7 on a Windows platform. The custom formatting in the module demo will not render correctly in the Windows PowerShell ISE.
